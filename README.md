@@ -1,1 +1,1 @@
-# Ip-Sniffer-Tracker-
+# Ip-Sniffer-Tracker- This is in the building stages. It will sniff the network and track a specific IP address and send notifications when such ip has joined the network.(this has so much potential to turn into a huge automation project!!). it could potentially automate any wifi protocol such as WAP, or wifi connected lights, any smart home device!!!!
